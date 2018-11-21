@@ -1,0 +1,17 @@
+#CVBox {
+  background-color: #EA8C55;
+  min-height: 400px;
+  max-width: 100%;
+}
+
+#CV2Box {
+  background-color: #E86C33;
+  min-height: 400px;
+  max-width: 100%;
+}
+
+#CVtitle {
+  padding: 50px, 20px, 50px, 20px;
+  text-align: center;
+  background-color: #E86C33;
+}

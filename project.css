@@ -1,0 +1,19 @@
+#projectBox {
+  background-color: #E86C33;
+  min-height: 900px;
+  max-width: 100%;
+}
+
+#exampleBox {
+  background-color: #E86C33;
+  min-height: 100px;
+  max-width: 100%;
+}
+
+h2 a {
+  color: #540804;
+}
+
+h2 a:hover {
+  color: white;
+}

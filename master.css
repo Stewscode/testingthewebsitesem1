@@ -1,0 +1,100 @@
+body {
+  background: #AD2E24;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header h1 {
+  padding-left: 86px;
+  color: white;
+}
+
+#logo {
+  float: left;
+}
+
+h1, li, h2 {
+  font-family:  'Exo 2', sans-serif;
+}
+
+h2 {
+  color: #540804;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: : black;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a {
+  background-color: #81171B;
+}
+
+nav li a:hover {
+  background-color: #C75146;
+  color: black;
+}
+
+#mainContent {
+  background-color: #EA8C55;
+  width: 50%;
+  float: left;
+  min-height: 300px;
+}
+
+#sideContent {
+  background-color: #E86C33;
+  width: 50%;
+  float: right;
+  min-height: 300px;
+}
+
+#extraContent {
+  background-color: #EA8C55;
+  max-width: 100%;
+  min-height: 500px;
+}
+
+.contentBox {
+  padding: 0 25px 0 25px;
+  max-width: 100%;
+}
+
+#footer1 {
+  width: 30%;
+  background-color:#C75146;
+  float: left;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+#footer2 {
+  width: 40%;
+  background-color: #C75146;
+  float: left;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+#footer3 {
+  width: 30%;
+  background-color: #C75146;
+  float: right;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
